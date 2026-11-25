@@ -84,6 +84,108 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Startup analyser** | INCLUDED | Inventories selected startup mechanisms, signatures and recorded Windows boot delays. Supports reversible Run/Startup-folder changes; logon tasks and services remain read-only. |
 | **Crash investigator** | INCLUDED | Opens configurable event timeline, incident context, XML evidence, driver/update comparisons and dump inspection. Deeper dump analysis uses installed Microsoft cdb.exe with opt-in symbol downloads. Evidence is not an automatic final diagnosis. |
 
+
+### Visual workflows
+
+<details>
+<summary>Health Check · view illustration</summary>
+
+![Illustration of Health Check](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-1.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Scan PC · view illustration</summary>
+
+![Illustration of Scan PC](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-2.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Live processes · view illustration</summary>
+
+![Illustration of Live processes](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-3.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Hardware details · view illustration</summary>
+
+![Illustration of Hardware details](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-4.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Resource Monitor · view illustration</summary>
+
+![Illustration of Resource Monitor](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-5.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Performance recorder · view illustration</summary>
+
+![Illustration of Performance recorder](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-6.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Battery status · view illustration</summary>
+
+![Illustration of Battery status](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-7.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Drive health · view illustration</summary>
+
+![Illustration of Drive health](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-8.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>External devices · view illustration</summary>
+
+![Illustration of External devices](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-9.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Startup analyser · view illustration</summary>
+
+![Illustration of Startup analyser](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-10.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Crash investigator · view illustration</summary>
+
+![Illustration of Crash investigator](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-11.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
 </details>
 
 <details>
@@ -98,6 +200,72 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Verified file backup** | INCLUDED | Opens file/folder backup with SHA-256 verification, durable partial-copy checkpoints, resume and independent re-verification. Existing different destination files are never overwritten. Main file streams only; no VSS, ACL/ADS or EFS backup. |
 | **System backup** | INCLUDED | Opens the Windows system-image workflow. The backup includes Windows and critical boot/recovery volumes, not every separate data drive. Requires administrator rights and a suitable NTFS destination on another physical disk. Opening the panel does not create a backup. |
 | **USB capacity / tests** | INCLUDED | Opens USB device details and file-based capacity verification, sequential benchmarks and three-pass sample stress tests. No test starts on opening. |
+
+
+### Visual workflows
+
+<details>
+<summary>Disk analyzer · view illustration</summary>
+
+![Illustration of Disk analyzer](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-12.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Duplicate files · view illustration</summary>
+
+![Illustration of Duplicate files](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-13.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Reviewed cache cleaning · view illustration</summary>
+
+![Illustration of Reviewed cache cleaning](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-14.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Windows component cleanup · view illustration</summary>
+
+![Illustration of Windows component cleanup](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-15.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Verified file backup · view illustration</summary>
+
+![Illustration of Verified file backup](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-16.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>System backup · view illustration</summary>
+
+![Illustration of System backup](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-17.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>USB capacity / tests · view illustration</summary>
+
+![Illustration of USB capacity / tests](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-18.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
 
 </details>
 
@@ -117,6 +285,99 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Driver updates** | INCLUDED | Opens the driver panel to scan applicable Windows Update packages, review official Catalog/OEM/component source links and install one reviewed, hardware-matched driver after explicit consent. Opening or scanning does not install anything; BIOS/firmware is excluded from installation. |
 | **Reviewed broken-uninstaller removal** | INCLUDED | For eligible applications with missing registered EXE uninstallers, preview exact files and shortcuts and separately review app-list cleanup. Protected/shared locations and recognized saves are excluded; this is not universal leftover removal. |
 
+
+### Visual workflows
+
+<details>
+<summary>DISM → SFC repair · view illustration</summary>
+
+![Illustration of DISM → SFC repair](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-19.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Services · view illustration</summary>
+
+![Illustration of Services](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-20.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Software uninstall · view illustration</summary>
+
+![Illustration of Software uninstall](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-21.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>File reputation · view illustration</summary>
+
+![Illustration of File reputation](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-22.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Password exposure check · view illustration</summary>
+
+![Illustration of Password exposure check](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-23.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Windows Security · view illustration</summary>
+
+![Illustration of Windows Security](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-24.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Defender quick · view illustration</summary>
+
+![Illustration of Defender quick](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-25.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Defender full · view illustration</summary>
+
+![Illustration of Defender full](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-26.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Driver updates · view illustration</summary>
+
+![Illustration of Driver updates](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-27.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Reviewed broken-uninstaller removal · view illustration</summary>
+
+![Illustration of Reviewed broken-uninstaller removal](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-77.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
 </details>
 
 <details>
@@ -129,6 +390,54 @@ The same nine groups used on the official website. Expand a category to see ever
 | **142-entry software catalogue** | OPTIONAL | Browse the bundled application and game catalogue by category. Select software, review its publisher terms and availability, then confirm the supported install or launch. Third-party software is not all bundled or included in the FS licence. |
 | **Installation review flow** | INCLUDED | Select → Review → Install. Installing a new application does not require closing an application that is not yet installed. Native installer and UAC prompts may appear. |
 | **Selected update verification** | INCLUDED | Compare installed/available versions, review one update and verify its outcome. The reviewed KillerPDF fallback covers supported per-user x64 EXE installations; other packages retain WinGet. An available version is not proof an applicable installer exists. |
+
+
+### Visual workflows
+
+<details>
+<summary>Get apps · view illustration</summary>
+
+![Illustration of Get apps](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-28.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Software updates · view illustration</summary>
+
+![Illustration of Software updates](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-29.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>142-entry software catalogue · view illustration</summary>
+
+![Illustration of 142-entry software catalogue](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-74.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Installation review flow · view illustration</summary>
+
+![Illustration of Installation review flow](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-75.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Selected update verification · view illustration</summary>
+
+![Illustration of Selected update verification](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-76.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
 
 </details>
 
@@ -143,6 +452,63 @@ The same nine groups used on the official website. Expand a category to see ever
 | **System design simulator** | OPTIONAL | Opens the optional online Breakscale design simulator. Simulated architecture behavior is not a Windows benchmark or live network load test. |
 | **DNS settings** | INCLUDED | Opens adapter DNS inspection, provider comparison and reversible DNS changes. Changing DNS does not increase ISP bandwidth. VPN/office networks may require existing internal resolvers. |
 | **Network control** | INCLUDED | Opens upload-only Windows QoS caps and per-executable firewall blocking. No arbitrary-app download shaping is included. Rules are reviewed before changes. |
+
+
+### Visual workflows
+
+<details>
+<summary>Network & devices · view illustration</summary>
+
+![Illustration of Network & devices](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-30.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Open speed test · view illustration</summary>
+
+![Illustration of Open speed test](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-31.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Public information lookup · view illustration</summary>
+
+![Illustration of Public information lookup](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-32.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>System design simulator · view illustration</summary>
+
+![Illustration of System design simulator](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-33.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>DNS settings · view illustration</summary>
+
+![Illustration of DNS settings](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-34.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Network control · view illustration</summary>
+
+![Illustration of Network control](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-35.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
 
 </details>
 
@@ -170,6 +536,171 @@ The same nine groups used on the official website. Expand a category to see ever
 | **HTTPS navigation & privacy details** | INCLUDED | FS blocks HTTP navigation and certificate errors. The privacy panel explains transport, local storage and website-input boundaries. |
 | **Password / PIN screen lock** | INCLUDED | A blurred interface lock accepts a password or six-digit PIN. Five failed attempts trigger browser shutdown, a retry delay and main-FS cache-cleanup handoff. Not administrator-proof. |
 
+
+### Visual workflows
+
+<details>
+<summary>FS Browser · view illustration</summary>
+
+![Illustration of FS Browser](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-36.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Collapsible website-icon rail · view illustration</summary>
+
+![Illustration of Collapsible website-icon rail](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-37.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Auto-hibernating tabs · view illustration</summary>
+
+![Illustration of Auto-hibernating tabs](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-38.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Tree-tab organization · view illustration</summary>
+
+![Illustration of Tree-tab organization](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-39.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Adjustable split views · view illustration</summary>
+
+![Illustration of Adjustable split views](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-40.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Workspace containers · view illustration</summary>
+
+![Illustration of Workspace containers](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-41.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>FS Shield · view illustration</summary>
+
+![Illustration of FS Shield](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-42.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>URL cleanup & redirects · view illustration</summary>
+
+![Illustration of URL cleanup & redirects](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-43.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Private link previews · view illustration</summary>
+
+![Illustration of Private link previews](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-44.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Local Markdown clipping · view illustration</summary>
+
+![Illustration of Local Markdown clipping](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-45.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Clipboard history & smart paste · view illustration</summary>
+
+![Illustration of Clipboard history & smart paste](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-46.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>RSS & Atom reader · view illustration</summary>
+
+![Illustration of RSS & Atom reader](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-47.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Page-element change watches · view illustration</summary>
+
+![Illustration of Page-element change watches](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-48.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Disposable burner tabs · view illustration</summary>
+
+![Illustration of Disposable burner tabs](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-49.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Tab audio controls · view illustration</summary>
+
+![Illustration of Tab audio controls](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-50.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Background video reduction · view illustration</summary>
+
+![Illustration of Background video reduction](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-51.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>HTTPS navigation & privacy details · view illustration</summary>
+
+![Illustration of HTTPS navigation & privacy details](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-52.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Password / PIN screen lock · view illustration</summary>
+
+![Illustration of Password / PIN screen lock](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-53.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
 </details>
 
 <details>
@@ -183,6 +714,63 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Reviewed video/audio downloads** | OPTIONAL | Send a video link to Downloads, review available MP3, MP4, M4A, WebM or WAV formats, then choose the output. Uses verified yt-dlp 2026.11.23, FFmpeg and Deno. Existing verified dependencies can be reused during an extractor update. Availability depends on the website and stream. |
 | **Download completion sound** | INCLUDED | A completion beep is enabled by default and respects FS mute/quiet-hour settings. Reminder sound is configured separately. |
 | **Transfer scheduling & limits** | INCLUDED | Schedule eligible transfers, apply download/upload limits and inspect transfer details. Background work requires the helper to remain running. |
+
+
+### Visual workflows
+
+<details>
+<summary>Shared download manager · view illustration</summary>
+
+![Illustration of Shared download manager](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-54.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Torrent files & magnets · view illustration</summary>
+
+![Illustration of Torrent files & magnets](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-55.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Automatic storage routing · view illustration</summary>
+
+![Illustration of Automatic storage routing](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-56.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Reviewed video/audio downloads · view illustration</summary>
+
+![Illustration of Reviewed video/audio downloads](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-57.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Download completion sound · view illustration</summary>
+
+![Illustration of Download completion sound](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-58.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Transfer scheduling & limits · view illustration</summary>
+
+![Illustration of Transfer scheduling & limits](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-59.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
 
 </details>
 
@@ -199,6 +787,72 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Gmail metadata & alerts** | OPTIONAL | Optional sender/subject synchronization, sender filtering and preview privacy controls. Polling is not guaranteed real-time email delivery. |
 | **Veylo encrypted vault** | PREVIEW | Veylo 0.29 integrated in a dedicated local window. Reviewed exact-HTTPS-origin filling, deliberate save/update and encrypted .vvlt import/export. Independent FS store; standalone phone/Wi-Fi sync and Chrome cloud-password sync are not enabled. Use test accounts until Windows acceptance is complete. |
 
+
+### Visual workflows
+
+<details>
+<summary>Reminder · view illustration</summary>
+
+![Illustration of Reminder](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-60.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Advance reminders · view illustration</summary>
+
+![Illustration of Advance reminders](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-61.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Page reminders & notifications · view illustration</summary>
+
+![Illustration of Page reminders & notifications](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-62.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Focus sessions · view illustration</summary>
+
+![Illustration of Focus sessions](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-63.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Google Calendar connection · view illustration</summary>
+
+![Illustration of Google Calendar connection](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-64.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Gmail metadata & alerts · view illustration</summary>
+
+![Illustration of Gmail metadata & alerts](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-65.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Veylo encrypted vault · view illustration</summary>
+
+![Illustration of Veylo encrypted vault](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-78.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
 </details>
 
 <details>
@@ -214,6 +868,81 @@ The same nine groups used on the official website. Expand a category to see ever
 | **Device-bound licensing** | INCLUDED | A publisher-issued licence activates maintenance access. Background authorization checks and expiry/revocation rules apply; licence duration is shown in the UI. |
 | **Error-report controls** | INCLUDED | Manage automatic error reporting in Settings. Raw logs, exception messages and filenames remain local under the implemented reporting policy. |
 | **Browser startup diagnostics** | INCLUDED | A startup failure shows a local, copyable exception type and stack trace for troubleshooting; this diagnostic panel does not upload automatically. |
+
+
+### Visual workflows
+
+<details>
+<summary>Maintenance schedules · view illustration</summary>
+
+![Illustration of Maintenance schedules](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-66.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Session export & history · view illustration</summary>
+
+![Illustration of Session export & history](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-67.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Offline help · view illustration</summary>
+
+![Illustration of Offline help](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-68.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Tray & startup controls · view illustration</summary>
+
+![Illustration of Tray & startup controls](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-69.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Reviewed changes · view illustration</summary>
+
+![Illustration of Reviewed changes](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-70.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Device-bound licensing · view illustration</summary>
+
+![Illustration of Device-bound licensing](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-71.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Error-report controls · view illustration</summary>
+
+![Illustration of Error-report controls](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-72.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
+
+<details>
+<summary>Browser startup diagnostics · view illustration</summary>
+
+![Illustration of Browser startup diagnostics](https://forge-sentinel.vlmilan24.workers.dev/visuals/feature-73.svg)
+
+[View on the website](https://forge-sentinel.vlmilan24.workers.dev/#capabilities)
+
+</details>
 
 </details>
 
